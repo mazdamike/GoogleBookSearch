@@ -1,0 +1,7 @@
+.contFlex {
+   display: flex;
+}
+
+.buttons {
+   justify-content: flex-end;
+}
